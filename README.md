@@ -22,3 +22,5 @@ to get the right icon in sass you can use this
 ```sass
 content: map-get($fontawesome-icons:, 'fa-camera'); // and you'll get \f030
 ```
+### license
+MIT
