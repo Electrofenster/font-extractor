@@ -20,7 +20,7 @@ simple import the files like this:
 
 to get the right icon in sass you can use this
 ```sass
-content: map-get($fontawesome-icons:, 'fa-camera'); // and you'll get \f030
+content: map-get($fontawesome-icons, 'fa-camera'); // and you'll get \f030
 ```
 ### license
 MIT
